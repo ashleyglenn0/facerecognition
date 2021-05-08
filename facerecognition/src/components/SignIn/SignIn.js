@@ -51,8 +51,7 @@ class SignIn extends React.Component {
                                 type='email' 
                                 name='email-address' 
                                 id='email-address'
-                                onChange={ this.onEmailChange } />
-                                
+                                onChange={ this.onEmailChange } /> 
                             </div>
                             <div className='mv3'>
                                 <label className='db fw6 1h-copy f6' htmlfor='password'>Password</label>
