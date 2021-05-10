@@ -1,6 +1,9 @@
 {
   "name": "facerecognition",
   "version": "0.1.0",
+  "engines": {
+    "node": "15.10.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
